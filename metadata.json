@@ -1,0 +1,6 @@
+{
+  "name": "DOLAN DARJO — Disporapar Sidoarjo",
+  "description": "Sistem Digitalisasi Operasional Layanan Angkutan Wisata Sidoarjo (Peminjaman Bus City Tour & Kurasi Rute ODL) oleh Dinas Kepemudaan, Olahraga, dan Pariwisata Kabupaten Sidoarjo.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

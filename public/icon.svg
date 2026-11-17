@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#0B1F3A"/>
+  <rect x="44" y="44" width="424" height="424" rx="84" stroke="#38BDF8" stroke-opacity="0.24" stroke-width="6"/>
+  <!-- Bus Silhouette -->
+  <rect x="116" y="136" width="280" height="200" rx="34" fill="#FFFFFF"/>
+  <rect x="140" y="164" width="232" height="84" rx="16" fill="#0F294A"/>
+  <path d="M164 206H348" stroke="#38BDF8" stroke-width="6" stroke-linecap="round" stroke-opacity="0.5"/>
+  <!-- Headlights & Grille -->
+  <circle cx="164" cy="292" r="16" fill="#D97706"/>
+  <circle cx="348" cy="292" r="16" fill="#D97706"/>
+  <rect x="208" y="280" width="96" height="24" rx="12" fill="#0284C7"/>
+  <!-- Wheels -->
+  <rect x="148" y="336" width="44" height="32" rx="10" fill="#16A34A"/>
+  <rect x="320" y="336" width="44" height="32" rx="10" fill="#16A34A"/>
+  <!-- Jayandaru Crest Dot -->
+  <path d="M256 84L272 114H240L256 84Z" fill="#38BDF8"/>
+</svg>
